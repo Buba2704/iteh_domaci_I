@@ -1,6 +1,6 @@
 $('#sortBtn').click(function(){
 
-    let tabela = document.getElementById("tabela");
+    let table = document.getElementById("tabela");
 
     let sort = false;
 
